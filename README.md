@@ -16,5 +16,5 @@ My name is Elena and I am a junior studying **_Business Analytics_** at the Univ
 
 # *Additional Links*
 
-- [Linked-In] (https://www.linkedin.com/in/elena-flowers-51a0b1182/)
-- [Handshake] (https://uiowa.joinhandshake.com/users/12383280)
+- [**Linked-In**] (https://www.linkedin.com/in/elena-flowers-51a0b1182/)
+- [**Handshake**] (https://uiowa.joinhandshake.com/users/12383280)
