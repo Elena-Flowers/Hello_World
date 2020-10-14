@@ -1,12 +1,12 @@
-# **Project Title* 
+# *Project Title* 
 
-***Hello_World***
+**Hello_World**
 
-## *Description*
+# *Description*
 
-My name is Elena and I am a junior studying Business Analytics at the University of Iowa.
+My name is Elena and I am a junior studying **_Business Analytics_** at the University of Iowa.
 
-## *Skills*
+# *Skills*
 
 1. MS Excel 
 2. MS Powerpoint
@@ -14,7 +14,7 @@ My name is Elena and I am a junior studying Business Analytics at the University
 4. SAS
 5. Visualization 
 
-## *Additional Links*
+# *Additional Links*
 
 - [Linked-In] (https://www.linkedin.com/in/elena-flowers-51a0b1182/)
 - [Handshake] (https://uiowa.joinhandshake.com/users/12383280)
