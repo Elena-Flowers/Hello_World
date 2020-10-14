@@ -1,3 +1,17 @@
-# Hello_World
+# **Hello_World**
+## *Description*
 
-My name is Elena and I'm studying Business Analytics and I like to do yoga. 
+My name is Elena and I am a junior studying Business Analytics at the University of Iowa.
+
+### *Skills*
+
+1. MS Excel 
+2. MS Powerpoint
+3. R 
+4. SAS
+5. Visualization 
+
+#### *Additional Links*
+
+- [Linked-In] (https://www.linkedin.com/in/elena-flowers-51a0b1182/)
+- [Handshake] (https://uiowa.joinhandshake.com/users/12383280)
